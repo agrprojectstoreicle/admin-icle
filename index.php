@@ -66,7 +66,7 @@
               <a href="allproducts.php">All Products</a>
             </li>
             <li>
-              <a href="#">Second Level Item</a>
+              <a href="addproduct.php">Add Product</a>
             </li>
             
           </ul>
